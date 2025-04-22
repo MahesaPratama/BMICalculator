@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/a6c4ff81-72b5-468a-b9a6-d394394aa514
 ## 📊 BMI Calculator
 
 **BMI Calculator** is a mobile application designed to help users calculate their Body Mass Index (BMI) and determine their ideal weight according to health standards.
