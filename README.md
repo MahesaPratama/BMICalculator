@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/a6c4ff81-72b5-468a-b9a6-d394394aa514
 ## 📊 BMI Calculator
 
 **BMI Calculator** is a mobile application designed to help users calculate their Body Mass Index (BMI) and determine their ideal weight according to health standards.
@@ -10,7 +12,7 @@
 - 🎯 **Ideal Weight Range**: Displays ideal weight range using Devine and Broca formulas.
 
 ## 🎬 See It In Action
-
+https://github.com/user-attachments/assets/5e0f1ab9-446e-49df-bd41-f497bec835f9
 
 ## 📞 Contact
 
